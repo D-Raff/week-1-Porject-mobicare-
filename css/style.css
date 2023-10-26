@@ -18,6 +18,10 @@ main{
     background-repeat: no-repeat;
     align-items: center;
 }
+footer{
+    background: black;
+    height: 3rem;
+}
 
 /* navbar */
 .nav-item{
